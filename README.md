@@ -14,7 +14,9 @@ Simple arduino based device that goes off when a build breaks. Should be able to
 
 ### Requirements
 
-This requires the Eth lib to work from https://github.com/jcw/ethercard, see the docs for installation
+This requires the Eth lib to work from https://github.com/jcw/ethercard, see the docs for installation.
+
+The code is configured to use DHCP and get an IP address automatically, this can be configured and hard coded. Also make sure the MAC address is unique to your network
 
 ### Usage
 
