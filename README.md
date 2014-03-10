@@ -10,6 +10,7 @@ Simple arduino based device that goes off when a build breaks. Should be able to
 - 1x Sparkfun pro micro (or similar) https://www.sparkfun.com/products/12587
 - 1x ENC28J60 Ethernet module (ebay: http://tinyurl.com/nfromrz)
 - 1x Strobe light (http://www.maplin.co.uk/p/mini-led-police-beacon-n74kf)
+- Misc resistors, hookup wire, capacitors, solder etc
 
 ### Requirements
 
