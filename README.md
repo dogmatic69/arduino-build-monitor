@@ -5,11 +5,11 @@ Simple arduino based device that goes off when a build breaks. Should be able to
 
 ### Hardware
 
-1x RGB LED (for status dispaly / errors)
-1x Transistor (to power the siren / strobe)
-1x Sparkfun pro micro (or similar) https://www.sparkfun.com/products/12587
-1x ENC28J60 Ethernet module (ebay: http://tinyurl.com/nfromrz)
-1x Strobe light (http://www.maplin.co.uk/p/mini-led-police-beacon-n74kf)
+- 1x RGB LED (for status dispaly / errors)
+- 1x Transistor (to power the siren / strobe)
+- 1x Sparkfun pro micro (or similar) https://www.sparkfun.com/products/12587
+- 1x ENC28J60 Ethernet module (ebay: http://tinyurl.com/nfromrz)
+- 1x Strobe light (http://www.maplin.co.uk/p/mini-led-police-beacon-n74kf)
 
 ### Requirements
 
